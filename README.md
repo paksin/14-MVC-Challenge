@@ -1,5 +1,8 @@
 # 14-MVC-Challenge
 
+## Deployed Link
+https://challenge-14-blog.herokuapp.com/
+
 ## Link to GitHub Repo
 https://github.com/paksin/14-MVC-Challenge
 
