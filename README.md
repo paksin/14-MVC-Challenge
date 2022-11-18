@@ -1,4 +1,4 @@
-# 14-MVC-Challenge
+# The Tech Blog
 
 ## Deployed Link
 https://challenge-14-blog.herokuapp.com/
